@@ -68,6 +68,7 @@ PySocks @ file:///C:/ci/pysocks_1594394709107/work
 python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
 pytz @ file:///tmp/build/80754af9/pytz_1612215392582/work
 pywin32==228
+python-3.9.7
 pywinpty==0.5.7
 pyzmq==20.0.0
 requests @ file:///tmp/build/80754af9/requests_1608241421344/work
